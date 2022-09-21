@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "dependencies": {
+    "surveyjs-widgets": "latest",
+    "survey-react": "latest",
+    "select2": "4.0.4",
+    "react-dom": "latest",
+    "react": "latest",
+    "jquery": "3.5.1"
+  }
+}
